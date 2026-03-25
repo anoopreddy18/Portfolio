@@ -318,6 +318,7 @@
   background: rgba(0, 212, 255, 0.1);
 }
 
+<<<<<<< HEAD
 .live-btn {
   background: var(--success-soft);
   border-color: rgba(52, 168, 83, 0.3);
@@ -330,6 +331,8 @@
   background: rgba(52, 168, 83, 0.1);
 }
 
+=======
+>>>>>>> 680be464b84af49a3e8f4cac94d9f5942517c83f
 /* Performance bar (in browser mockup) */
 .perf-bar {
   display: flex;
@@ -375,6 +378,7 @@
   white-space: nowrap;
 }
 
+<<<<<<< HEAD
 /* Scan progress (in browser mockup for VulnSpectra) */
 .scan-progress {
   display: flex;
@@ -487,6 +491,8 @@
   font-weight: 600;
 }
 
+=======
+>>>>>>> 680be464b84af49a3e8f4cac94d9f5942517c83f
 @media (max-width: 800px) {
   .projects-grid { grid-template-columns: 1fr; }
 }
